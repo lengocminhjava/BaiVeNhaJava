@@ -24,7 +24,8 @@ bin/
 
 ### VS Code ###
 .vscode/
-.idea/
-.baivenha.iml/
 ### Mac OS ###
 .DS_Store
+#
+.idea/
+.baivenha.iml/
