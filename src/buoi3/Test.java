@@ -1,2 +1,4 @@
-package buoi3;public class Test {
+package buoi3;
+
+public class Test {
 }
